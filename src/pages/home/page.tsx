@@ -3,7 +3,7 @@ import TopBar from '@/components/feature/TopBar';
 import { reports } from '@/mocks/reports';
 
 const stats = [
-  { label: 'Reportes disponibles', value: '3', icon: 'ri-file-chart-line', color: 'bg-[#FFDC00]/30 text-[#b89e00]' },
+  { label: 'Reportes disponibles', value: '1', icon: 'ri-file-chart-line', color: 'bg-[#FFDC00]/30 text-[#b89e00]' },
   { label: 'Última actualización', value: 'Hoy', icon: 'ri-time-line', color: 'bg-[#FFDC00]/30 text-[#b89e00]' },
   { label: 'Estado del sistema', value: 'Activo', icon: 'ri-checkbox-circle-line', color: 'bg-[#FFDC00]/30 text-[#b89e00]' },
 ];
